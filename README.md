@@ -1,2 +1,2 @@
-# registration-form
+# Registration-form
 It is a registration form
